@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Intro App</string>
+    <string name="title_activity_welcome">Intro App</string>
+    <string name="next">NEXT</string>
+    <string name="skip">SKIP</string>
+    <string name="start">GOTCHA!</string>
+
+    <string name="slide_1_title">Yum!</string>
+    <string name="slide_1_desc">Order your lip-smacking food right now</string>
+
+    <string name="slide_2_title">Movies!</string>
+    <string name="slide_2_desc">Got a movie to watch? Book tickets right here</string>
+
+    <string name="slide_3_title">We ❤ Discounts!</string>
+    <string name="slide_3_desc">Get great discounts on the services we offer</string>
+
+    <string name="slide_4_title">Trip ✈ maniac?</string>
+    <string name="slide_4_desc">Book tickets of any transportation and travel the world!</string>
+
+    <string name="play_again_desc">Want to play the intro again? Head to Settings -> Apps -> Inro App -> Clear data</string>
+    <string name="play_again">Start Again</string>
+</resources>
