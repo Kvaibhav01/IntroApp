@@ -1,6 +1,9 @@
 # IntroApp
 ## This Android app adds splash screen slides to make a great intro for an app.
 
+[![GitHub forks](https://img.shields.io/github/forks/badges/shields.svg?style=social&label=Fork)](https://github.com/Kvaibhav01/IntroApp/pulls)
+[![GitHub stars](https://img.shields.io/github/stars/badges/shields.svg?style=social&label=Star)](https://github.com/Kvaibhav01/IntroApp)
+[![GitHub watchers](https://img.shields.io/github/watchers/badges/shields.svg?style=social&label=Watch)](https://github.com/Kvaibhav01/IntroApp/subscription)
 ###### Short description
 Adding Welcome / Intro screens in your app is a great way of showcasing the major features of the app. You can add as many slides as you want. But too many slides can be cumbersome for the first time app users. So, try to make it as simple and intuitive as possible. In this app when the user *opens the app for the first time*, he or she is greeted with some introduction slides. Four slides to be specific. This app's slides will contain four slides each of which will contain the following information:
 
