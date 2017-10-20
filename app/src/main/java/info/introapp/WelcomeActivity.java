@@ -34,7 +34,7 @@ public class WelcomeActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        // Checking for first time launch - before calling setContentView()
+        // Checking for first time launch
         prefManager = new PrefManager(this);
         if (!prefManager.isFirstTimeLaunch()) {
             launchHomeScreen();
@@ -53,9 +53,7 @@ public class WelcomeActivity extends AppCompatActivity {
         btnSkip = (Button) findViewById(R.id.btn_skip);
         btnNext = (Button) findViewById(R.id.btn_next);
 
-
-        // layouts of all welcome sliders
-        // add few more layouts if you want
+        // adding layouts
         layouts = new int[]{
                 R.layout.welcome_slide1,
                 R.layout.welcome_slide2,
@@ -133,11 +131,11 @@ public class WelcomeActivity extends AppCompatActivity {
 
             // changing the next button text 'NEXT' / 'GOT IT'
             if (position == layouts.length - 1) {
-                // last page. make button text to GOT IT
+                // last page. Make button text to GOT IT
                 btnNext.setText(getString(R.string.start));
                 btnSkip.setVisibility(View.GONE);
             } else {
-                // still pages are left
+                // if still pages are left
                 btnNext.setText(getString(R.string.next));
                 btnSkip.setVisibility(View.VISIBLE);
             }
