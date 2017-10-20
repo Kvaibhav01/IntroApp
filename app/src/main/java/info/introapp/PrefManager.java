@@ -3,15 +3,11 @@ package info.androidhive.introslider;
 import android.content.Context;
 import android.content.SharedPreferences;
 
-/**
- * Created by Lincoln on 05/05/16.
- */
 public class PrefManager {
     SharedPreferences pref;
     SharedPreferences.Editor editor;
     Context _context;
 
-    // shared pref mode
     int PRIVATE_MODE = 0;
 
     // Shared preferences file name
