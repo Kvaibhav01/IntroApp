@@ -19,4 +19,4 @@ Here's a quick demo in form of GIF:-
 
 ![GIF demo](https://media.giphy.com/media/xUA7aTHuWK9HmcHbkk/giphy.gif) Made using [Make a GIF](http://makeagif.com/).
 
-** App inspired from the Androidhive tutorial given [here](https://www.androidhive.info/2016/05/android-build-intro-slider-app/). **
+**App inspired from the Androidhive tutorial given [here](https://www.androidhive.info/2016/05/android-build-intro-slider-app/).**
