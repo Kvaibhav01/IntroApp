@@ -17,4 +17,3 @@ Here's a quick demo in form of GIF:-
 
 **App inspired from the Androidhive tutorial given [here](https://www.androidhive.info/2016/05/android-build-intro-slider-app/).**
 
-Google Play and the Google Play logo are trademarks of Google LLC.
